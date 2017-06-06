@@ -1,2 +1,2 @@
-# Reviews-on-Cpp
-C++ code to extract review from IMDB
+# IMDB Reviews extraction-on-C++
+C++ code to generate R package and extract review from IMDB
